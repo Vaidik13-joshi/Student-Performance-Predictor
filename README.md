@@ -33,3 +33,6 @@ Output:
 
 This project uses a small dataset for demonstration purposes.
 
+## 📷 Output
+![Output](output.png)
+
